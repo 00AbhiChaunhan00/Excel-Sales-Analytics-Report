@@ -8,8 +8,6 @@
 
 This repository contains multiple business reports created using Microsoft Excel for analyzing sales performance from different perspectives such as customers, markets, fiscal years, and monthly profitability.
 
-The reports are designed for managers and business stakeholders to monitor KPIs, evaluate performance, and support strategic decision-making.
-
 ---
 
 # 📁 Reports Included
@@ -28,7 +26,6 @@ The reports are designed for managers and business stakeholders to monitor KPIs,
 
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
 - Power Query
 - Power Pivot
 - Conditional Formatting
@@ -38,7 +35,6 @@ The reports are designed for managers and business stakeholders to monitor KPIs,
 - Slicers
 - Dynamic Reports
 - Financial Analysis
-- KPI Reporting
 
 ---
 
