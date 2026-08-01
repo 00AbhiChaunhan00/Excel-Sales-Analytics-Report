@@ -131,4 +131,23 @@ This project was completed as part of my Data Analytics learning journey to stre
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star!
+# 👨‍💻 Author
+
+## **Abhishek Singh Chauhan**
+
+### 🌟 Aspiring Data Analyst
+
+**Skills**
+
+`SQL` • `Excel` • `Python` • `Pandas` • `Data Analysis` • `Dashboard Development` • `Business Intelligence`
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project helpful, don't forget to Star ⭐ the repository!
+
+**Thanks for visiting! 😊**
+
+</div>
+---
