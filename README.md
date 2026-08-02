@@ -14,11 +14,11 @@ This repository contains multiple business reports created using Microsoft Excel
 
 | Report | Description |
 |---------|-------------|
-| 📈 Customer Performance Report | Analyze customer-wise sales performance across multiple years. |
-| 🌍 Market Performance vs Target Report | Compare actual market sales against predefined targets. |
-| 💰 Profit & Loss Statement by Fiscal Year | Evaluate yearly profit and loss performance. |
-| 🌎 Profit & Loss Statement by Markets | Analyze profitability across different markets. |
-| 📅 Profit & Loss Statement by Months | Track monthly financial performance and trends. |
+| 📈 Customer Performance Report | Analyze customer-wise sales performance across multiple years.|
+| 🌍 Market Performance vs Target Report | Compare actual market sales against predefined targets.|
+| 💰 Profit & Loss Statement by Fiscal Year | Evaluate yearly profit and loss performance.|
+| 🌎 Profit & Loss Statement by Markets | Analyze profitability across different markets.|
+| 📅 Profit & Loss Statement by Months | Track monthly financial performance and trends.|
 
 ---
 
