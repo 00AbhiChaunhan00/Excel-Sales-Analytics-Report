@@ -44,7 +44,7 @@ The reports help answer business questions such as:
 
 - Which customers generated the highest revenue?
 - Which markets performed above or below target?
-- Monthly and yearly profit trends.
+- Monthly and yearly profit trends
 - Best and worst performing regions.
 - Financial performance across fiscal years.
 - Profitability comparison across different markets.
