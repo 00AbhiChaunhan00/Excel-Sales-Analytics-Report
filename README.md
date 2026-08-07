@@ -123,7 +123,7 @@ Example of the Customer Performance Report:
 
 # 👨‍💻 About This Project
 
-This project was completed as part of my Data Analytics learning journey to strengthen practical Excel reporting skills and understand how managers and business stakeholders analyze sales performance using real-world business reports.
+This project was completed as part of my Data Analytics learning journey to strengthen practical Excel reporting skills and understand how managers and business stakeholders analyze sales performance using real-world business reports
 
 ---
 
