@@ -64,12 +64,7 @@ The reports help answer business questions such as:
 
 ---
 
-# 📂 Repository Structure
 
-```
-│
-├── P&L Statement by Markets.pdf
-├── P&L Statement by Months.pdf
 ```
 
 ---
