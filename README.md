@@ -68,8 +68,6 @@ The reports help answer business questions such as:
 
 ```
 │
-├── Market Performance vs Target Report.pdf
-├── P&L Statement by Fiscal Year.pdf
 ├── P&L Statement by Markets.pdf
 ├── P&L Statement by Months.pdf
 ```
