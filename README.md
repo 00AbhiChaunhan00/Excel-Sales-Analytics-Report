@@ -67,7 +67,6 @@ The reports help answer business questions such as:
 # 📂 Repository Structure
 
 ```
-Excel-Sales-Analytics-Report
 │
 ├── Market Performance vs Target Report.pdf
 ├── P&L Statement by Fiscal Year.pdf
