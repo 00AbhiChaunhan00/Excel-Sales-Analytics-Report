@@ -69,7 +69,6 @@ The reports help answer business questions such as:
 ```
 Excel-Sales-Analytics-Report
 │
-├── Customer Performance Report.pdf
 ├── Market Performance vs Target Report.pdf
 ├── P&L Statement by Fiscal Year.pdf
 ├── P&L Statement by Markets.pdf
