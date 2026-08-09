@@ -64,11 +64,6 @@ The reports help answer business questions such as:
 
 ---
 
-
-```
-
----
-
 # 🎯 Skills Demonstrated
 
 ✔ Data Cleaning
