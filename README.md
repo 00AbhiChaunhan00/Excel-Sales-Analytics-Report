@@ -74,7 +74,6 @@ Excel-Sales-Analytics-Report
 ├── P&L Statement by Fiscal Year.pdf
 ├── P&L Statement by Markets.pdf
 ├── P&L Statement by Months.pdf
-└── README.md
 ```
 
 ---
