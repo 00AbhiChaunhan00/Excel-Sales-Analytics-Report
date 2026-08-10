@@ -80,7 +80,7 @@ The reports help answer business questions such as:
 
 ✔ Data Visualization
 
-
+✔ Excel Automation
 
 ✔ Business Intelligence
 
