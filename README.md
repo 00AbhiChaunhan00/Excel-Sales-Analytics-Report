@@ -61,7 +61,6 @@ The reports help answer business questions such as:
 - YoY Growth
 - Monthly Performance
 - Fiscal Year Performance
-
 ---
 
 # 🎯 Skills Demonstrated
