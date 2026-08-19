@@ -101,7 +101,7 @@ Through this project I gained practical experience in:
 
 Example of the Customer Performance Report:
 
-> Customer-wise Net Sales Performance with Year-over-Year comparison and conditional formatting for quick business analysis.
+> Customer-wise Net Sales Performance with Year-over-Year comparison and conditional formatting for quick business analysis 
 
 ---
 
